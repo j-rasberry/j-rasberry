@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**j-rasberry/j-rasberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +8,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# A little about me
+
+I'm a web developer. I enjoy creating solutions out of nothing more than the knowledge in my head and the 1 and 0 that light up my screens.
+
+## Projects I'm current working on.
+
+- Christmas Shuffle
+
+
+# Current goals
+
+ - I have been wanting to spend more time learning how to use Github for a while now. I want to contribute to 
+open source projects and more regularly push code to github.
