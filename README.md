@@ -25,8 +25,8 @@ open source projects and more regularly push code to github.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=j-rasberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![badge](https://img.shields.io/badge/OS-Linux-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Editor-Visual Studio Code-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/https://github.com/j-rasberry/j-rasberry/blob/main/resources/icons/Tux_Linux.svgLanguage-HTML-orange.svg)](https://#/)
+[![badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-red.svg)](https://#/)
+[![badge](https://img.shields.io/badge/Language-HTML-orange.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Language-CSS-blue.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Language-JS-yellow.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Language-Jquery-red.svg)](https://#/)
@@ -35,6 +35,20 @@ open source projects and more regularly push code to github.
 [![badge](https://img.shields.io/badge/Language-mySQL-red.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Tools-Node-red.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Tools-Node-red.svg)](https://#/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
