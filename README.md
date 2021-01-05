@@ -26,7 +26,7 @@ open source projects and more regularly push code to github.
 
 [![badge](https://img.shields.io/badge/OS-Linux-red.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Editor-Visual Studio Code-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Language-HTML-orange.svg)](https://#/)
+[![badge](https://img.shields.io/badge/https://github.com/j-rasberry/j-rasberry/blob/main/resources/icons/Tux_Linux.svgLanguage-HTML-orange.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Language-CSS-blue.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Language-JS-yellow.svg)](https://#/)
 [![badge](https://img.shields.io/badge/Language-Jquery-red.svg)](https://#/)
