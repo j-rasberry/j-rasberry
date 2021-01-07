@@ -24,17 +24,16 @@ open source projects and more regularly push code to github.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=j-rasberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![badge](https://img.shields.io/badge/OS-Linux-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Language-HTML-orange.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Language-CSS-blue.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Language-JS-yellow.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Language-Jquery-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Language-JAVA-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Language-PHP-purple.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Language-mySQL-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Tools-Node-red.svg)](https://#/)
-[![badge](https://img.shields.io/badge/Tools-Node-red.svg)](https://#/)
+[![badge](https://img.shields.io/badge/OS-Linux-red.svg?logo=linux)](https://#/)
+[![badge](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-red.svg?logo=visual-studio-code)](https://#/)
+[![badge](https://img.shields.io/badge/Language-HTML-orange.svg?logo=html5)](https://#/)
+[![badge](https://img.shields.io/badge/Language-CSS-blue.svg?logo=css3)](https://#/)
+[![badge](https://img.shields.io/badge/Language-JS-yellow.svg?logo=javascript)](https://#/)
+[![badge](https://img.shields.io/badge/Language-Jquery-red.svg?logo=jquery)](https://#/)
+[![badge](https://img.shields.io/badge/Language-JAVA-red.svg?logo=java)](https://#/)
+[![badge](https://img.shields.io/badge/Language-PHP-purple.svg?logo=php)](https://#/)
+[![badge](https://img.shields.io/badge/Language-mySQL-red.svg?logo=mysql)](https://#/)
+[![badge](https://img.shields.io/badge/Tools-Node-red.svg?logo=npm)](https://#/)
 
 
 
